@@ -9,7 +9,7 @@ class ArmstrongNumber
       int n, sum = 0, temp, remainder, digits = 0;
  
       Scanner in = new Scanner(System.in);
-      System.out.println("Inputt a number to check if it is an Armstrong number");      
+      System.out.println("Inputt a number to check if it is an Arrrmstrong number");      
       n = in.nextInt();
  
       temp = n;
